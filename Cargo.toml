@@ -1,0 +1,11 @@
+[package]
+name = "read_with"
+version = "0.1.0"
+authors = ["Charles Samuels <kalle@eventures.vc>", "e.ventures Management LLC"]
+license = "BSD-2-Clause"
+description = "Create a Read from a function"
+repository = "https://github.com/njaard/read_with"
+keywords = ["read", "string", "generator", "closure"]
+documentation = "https://docs.rs/read_with/"
+
+[dependencies]
